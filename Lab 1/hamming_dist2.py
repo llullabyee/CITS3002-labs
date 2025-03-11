@@ -19,4 +19,4 @@ def checking_codewords(codewords,received_data):
 cw1 = "10011101"
 cw2 = "10111110"
 
-print(hamming_distance(cw1, cw2)) f
+print(hamming_distance(cw1, cw2))
